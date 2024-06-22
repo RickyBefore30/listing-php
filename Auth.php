@@ -59,7 +59,7 @@ UIkit.scroll(app).scrollTo(app);
                                       <label><input class="uk-checkbox" type="checkbox"> I agree the Terms and Conditions.</label>
                                     </div>
                                     <div class="uk-margin">
-                                      <button class="uk-button uk-button-primary uk-button-large uk-width-1-1">Login</button>
+                                      <button class="uk-button uk-button-primary uk-button-large uk-width-1-1">Register</button>
                                     </div>
                                     <div class="uk-text-small uk-text-center">
                                       Already have an account? <a href="#" uk-switcher-item="1">Log in</a>
